@@ -1,0 +1,4 @@
+__pycache__/
+samples/out_*
+*_report.json
+*_errors.csv

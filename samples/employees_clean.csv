@@ -1,0 +1,9 @@
+employee_id,first_name,last_name,email,status,hire_date,termination_date,manager_id,site,department
+1001,Ana,López,ana.lopez@acme-demo.com,Active,2019-03-01,,,Cincinnati HQ,Executive
+1002,José,Muñoz,jose.munoz@acme-demo.com,Active,2020-06-15,,1001,Cincinnati HQ,EHS
+1003,Emily,Carter,emily.carter@acme-demo.com,Active,2021-01-10,,1002,Louisville Plant,EHS
+1004,Michael,Brown,michael.brown@acme-demo.com,Active,2022-09-05,,1002,Louisville Plant,Operations
+1005,Sofía,Hernández,sofia.hernandez@acme-demo.com,Active,2023-02-20,,1001,Aguascalientes,IT
+1006,David,Kim,david.kim@acme-demo.com,Terminated,2018-11-12,2026-10-31,1004,Louisville Plant,Operations
+1007,Laura,Nguyen,laura.nguyen@acme-demo.com,Active,2024-04-01,,1005,Aguascalientes,IT
+1008,Carlos,Ramírez,carlos.ramirez@acme-demo.com,Active,2025-07-14,,1004,Louisville Plant,Operations

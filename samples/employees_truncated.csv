@@ -1,0 +1,3 @@
+employee_id,first_name,last_name,email,status,hire_date,termination_date,manager_id,site,department
+1001,Ana,López,ana.lopez@acme-demo.com,Active,2019-03-01,,,Cincinnati HQ,Executive
+1002,José,Muñoz,jose.munoz@acme-demo.com,Active,2020-06-15,,1001,Cincinnati HQ,EHS
